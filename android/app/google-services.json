@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "354068858057",
+    "firebase_url": "https://fir-backend-cd881.firebaseio.com",
+    "project_id": "fir-backend-cd881",
+    "storage_bucket": "fir-backend-cd881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354068858057:android:337f4e0de0707d64",
+        "android_client_info": {
+          "package_name": "com.ydc.flutterfirebasebackendapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354068858057-aug3i32bqd0iv4oi65tragcndpf3op9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvrRQvWXgOVncAkKjWR_Os6i-ZF29X6sM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
